@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate at Scripps Institution of Oceanography. I stutdy small-scale ice-ocean interactions, and am advised by Grant Deane. 
-
-This is my personal website, and it is currently under construction, so please excuse the mess and leftover template fragments.
+I'm a PhD Candidate at Scripps Institution of Oceanography, advised by [Grant Deane](https://imtlab.ucsd.edu/profile-grant-deane/). The current focus of my work is small-scale ice-ocean interactions. Specifically, I study the release of air bubbles from melting glacier ice into water, the sounds that the bubbles emit during this process, and their influence on the structure of the ice-water boundary layer.
