@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[CV PDF](../files/hayden_johnson_cv.pdf)
+[PDF of CV](../files/hayden_johnson_cv.pdf)
 
 (Updated February 2026)
