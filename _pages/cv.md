@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](files/hayden_johnson_cv.pdf)
+
 Education
 ======
 * M.S. in Oceanography, Scripps Institution of Oceanography, University of California, San Diego, 2020
