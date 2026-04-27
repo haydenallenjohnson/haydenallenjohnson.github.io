@@ -11,4 +11,4 @@ redirect_from:
 
 [PDF of CV](../files/hayden_johnson_cv.pdf)
 
-(Updated February 2026)
+(Updated April 2026)
